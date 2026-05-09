@@ -1,5 +1,8 @@
 # Smart Bridge Health Monitor
+
 ![Dashboard](dashboard.png)
+
+
 A structural health monitoring (SHM) simulation built in Python.
 
 ## What it does
